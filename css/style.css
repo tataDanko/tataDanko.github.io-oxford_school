@@ -1,5 +1,5 @@
-/* @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&display=swap&subset=cyrillic');
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap&subset=cyrillic'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&display=swap&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700&display=swap');
 
@@ -15,7 +15,7 @@ header {
 }
 
 /* версия 1 */
-.header_img img{
+/* .header_img img{
     position: absolute;
     top: 155px;
     left: 0;
@@ -38,7 +38,7 @@ header {
     color: #000000;
     font-size: 14px;
    
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -46,21 +46,21 @@ header {
     color: #000000;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 
 }
 .header_text>div {
     width: 50%;
     padding-top: 12rem;
-}
+} */
 /* версия 1  */
 
 
 
 /* версия 2 */
 
-/* .header_img img{
+.header_img img{
     position: absolute;
     top: 0;
     left: 0;
@@ -83,7 +83,7 @@ header {
 .main_menu li a {
     color: #FFFFFF;
     font-size: 14px;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -92,14 +92,14 @@ header {
     color: #FFFFFF;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 
 }
 .header_text>div {
     width: 50%;
     padding-top: 5rem;
-} */
+}
 
 /* версия 2 */
 
@@ -150,7 +150,7 @@ body {
     color: #FFFFFF;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     padding: .625rem 1rem;
     box-shadow: 0 5px 15px rgba(0,0,0,.15);
@@ -168,7 +168,7 @@ body {
     color: #FFFFFF;
     font-size: 62px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     padding-bottom: 3rem;
 }
@@ -177,7 +177,7 @@ body {
     color: #FFFFFF;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     padding: .625rem 1rem;
     box-shadow: 0 5px 15px rgba(0,0,0,.15);
@@ -196,7 +196,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     padding-bottom: 3rem;
     text-align: center;
 }
@@ -209,7 +209,7 @@ body {
    
 }
 .our_course h3{
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 1.75rem;
     padding-bottom: 2rem;
@@ -223,7 +223,7 @@ body {
 }
 .our_course p{
     
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     }
 
@@ -242,7 +242,7 @@ body {
     color: #FFFFFF;
     font-size: 14px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     padding: .5rem .625rem;
     box-shadow: 0 5px 15px rgba(0,0,0,.15);
@@ -260,7 +260,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     padding: 3rem;
     text-align: center;
 }
@@ -277,14 +277,14 @@ body {
 }
 .our_advantage p{
     text-align: center;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     }
 .list_adv h4 {
     transform: translateY(-30px);
     background: #f2f7f8;
     font-size: 1rem;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     display: inline-block;
 }
 .list_adv:before {
@@ -302,7 +302,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     padding: 3rem;
     text-align: center;
 }
@@ -316,7 +316,7 @@ body {
 
 .our_teacher p{
     text-align: center;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     }
 .our_teacher>div {
@@ -332,7 +332,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     text-align: center;
     padding-bottom: 3rem;
 }
@@ -344,11 +344,11 @@ body {
    
 }
 .teacher_owl p {
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1rem;
 }
 .teacher_owl h4 {
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
     margin-bottom: 1.5rem;
 }
@@ -376,7 +376,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     padding: 3rem;
     text-align: center;
 }
@@ -411,7 +411,7 @@ body {
     color: #000000;
     font-size: 32px;
     font-weight: 700;
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     padding: 3rem;
     text-align: center;
 }
@@ -427,13 +427,13 @@ body {
     font-size: 44px;
 }
 #review h4 {
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
     margin: 1.5rem 0;
     color: #000000;
 }
 #review p {
-    font-family: 'Roboto Slab', serif;
+   font-family: 'Roboto', sans-serif;
     font-size: 1rem;
     color: #000000;
 }
